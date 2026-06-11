@@ -6,7 +6,7 @@ This project presents a low-cost, AI-assisted automated solar panel cleaning sys
 
 Unlike existing solutions that rely on fixed time cleaning, that is timer based logic unlike traditional cleaners, our system uses AI-driven decision-making to clean panels only when required. Hence reducing water usage, energy consumption and operational cost.
 
-## 🚨 Problem Statement
+## Problem Statement
 
 -   Dust accumulation reduces solar efficiency by 10-30%
 -   Manual cleaning is:
@@ -17,13 +17,13 @@ Unlike existing solutions that rely on fixed time cleaning, that is timer based 
     -   Expensive (₹20,000+)
     -   Designed for large solar farms
 
-## 💡 Proposed Solution
+## Proposed Solution
 
 We propose a rail based automated cleaning system with wet cleaning, microfiber wiping, AI based cleaning decision logic and IoT enabled monitoring
 
-## 🧠 AI Component (Key Differentiator)
+## AI Component (Key Differentiator)
 
-### 🎯 Goal:
+### Goal:
 
 Clean only when required, not on fixed schedules.
 
@@ -41,7 +41,7 @@ Lightweight CNN model is trained to classify: - Clean panel & Dusty panel
 
 Binary decision: - CLEAN - DO NOT CLEAN
 
-## ⚙️ System Architecture
+## System Architecture
 
 ### Hardware:
 
@@ -52,9 +52,9 @@ Binary decision: - CLEAN - DO NOT CLEAN
 -   Dust sensor (PM2.5)
 -   Current/voltage sensor
 
-## 🔌 Circuit Diagram
+## Circuit Diagram
 
-## 🧩 Circuit Explanation (Based on Your Diagram)
+## Circuit Explanation (Based on Your Diagram)
 
 -   ESP32: Central controller for all operations
 -   ESP32-CAM: Captures panel surface images
@@ -65,7 +65,7 @@ Binary decision: - CLEAN - DO NOT CLEAN
 -   Limit Switches: Prevent over-travel
 -   Buck Converter: Steps down voltage (12V → 5V)
 
-## 🔄 Working in Real Environment
+## Working in Real Environment
 
 1.  System periodically checks panel condition
 2.  Camera + sensor data analyzed
@@ -77,26 +77,26 @@ Binary decision: - CLEAN - DO NOT CLEAN
     -   System stops at limit switch
 5.  Data logged and status updated
 
-## 💧 Sustainability Impact
+## Sustainability Impact
 
 -   Up to 60-70% water savings
 -   Reduced unnecessary cleaning cycles
 -   Increased solar panel lifespan
 
 
-## 📊 Expected Impact
+## Expected Impact
 
 -   10-20% efficiency improvement
 -   Reduced maintenance cost
 -   Accessible automation for rural users
 
-## 🚀 Future Scope
+## Future Scope
 
 -   Predictive cleaning using weather data
 -   Water recycling system
 -   Fault detection (hotspots, cracks)
 -   Mobile app integration
 
-## 🏁 Conclusion
+## Conclusion
 
 This system provides a scalable, affordable, and intelligent solution to improve solar efficiency at the grassroots level, aligning with sustainability and smart automation goals.
