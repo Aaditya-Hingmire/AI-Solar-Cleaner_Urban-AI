@@ -148,6 +148,6 @@ The system monitors dust and performance, and autonomously triggers a rail-based
 * Mobile app integration
 
 
-## 🏁 Conclusion
+## Conclusion
 
 This system delivers a scalable, affordable, and intelligent solution to improve solar efficiency at the grassroots level, combining AI, IoT, and sustainable engineering.
