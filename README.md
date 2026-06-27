@@ -1,6 +1,6 @@
 # AI-Based Low-Cost Solar Panel Cleaning System
 
-## 📌 Overview
+## Overview
 
 This project presents a low-cost, AI-assisted automated solar panel cleaning system designed specifically for individual users and small-scale farmers.
 
