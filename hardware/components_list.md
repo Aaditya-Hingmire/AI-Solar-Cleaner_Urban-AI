@@ -12,7 +12,7 @@
 | 8 | Water Pipe & Nozzles | 1 Set |
 | 9 | Mini Water Pump | 1 |
 | 10 | Water Storage Tank | 1 |
-| 11 | Rain/Dust Sensor | 1 |
+| 11 | PM2.5 Sensor | 1 |
 | 12 | Current/Voltage Sensor | 1 |
 | 13 | Limit Switches | 2 |
 | 14 | Rechargeable Battery Pack | 1 |
